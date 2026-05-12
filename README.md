@@ -1,53 +1,147 @@
-## Hi 👋 I'm Leonardo Ojeda
+<h1 align="center">Hi 👋, I'm Leonardo Ojeda</h1>
 
-### Web & Mobile Developer | Full-Stack Enthusiast
+<h3 align="center">
+Full-Stack Web & Mobile Developer from Mexico 🇲🇽
+</h3>
 
-🌍 Based in Querétaro, originally from Guanajuato  
-💻 Currently working at [Xira](https://xira.ai)  
-🎓 Graduated from the Tecnológico Nacional de México, Celaya (2022)  
-📺 [YouTube Channel: DevSolutions](https://www.youtube.com/channel/your-channel-url)  
-🌐 [Website: devsolutions.mx](https://devsolutions.mx)
-
-I'm passionate about developing web and mobile applications, and I have experience in a variety of technologies. I was also a programmer for the well-known "Semana Lince" event in both the 2022 and 2024 editions.
-
-### 🔍 Currently Exploring
-
-- Advancing my full-stack development skills
-- Experimenting with new tools and technologies
-
-### 🛠️ Skills
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<p align="center">
+  <a href="https://github.com/LeonardoHOjeda">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+Developer+with+Flutter;Laravel+%2B+Vue+Developer;Always+learning+new+technologies" />
+  </a>
 </p>
 
-### 🌐 Connect with Me
+---
+
+## 🚀 About Me
+
+- 🌍 Based in **Querétaro, México**
+- 💼 Currently working at **Xira**
+- 🎓 Graduate from **Tecnológico Nacional de México - Celaya**
+- 📱 Passionate about **Web & Mobile Development**
+- 🧠 Always learning new technologies
+- 🎥 Content creator at **DevSolutions**
+- ⚡ Fun fact: I participated as programmer in **Semana Lince 2022 & 2024**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.github.com/LeonardoHOjeda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/LeonardoBeHO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://github.com/LeonardoHOjeda" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://twitter.com/LeonardoBeHO" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+
+<a href="https://devsolutions.mx" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/domain.png" height="40" />
+</a>
+
+<a href="https://www.youtube.com/" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/youtube-play.png" height="40" />
+</a>
 </p>
 
-Feel free to reach out if you'd like to connect or discuss any exciting opportunities!
+---
 
-### 📊 GitHub Stats
+# 🛠️ Tech Stack
+
+## Frontend
 
 <p align="left">
-  <a href="http://www.github.com/LeonardoHOjeda"><img src="https://github-readme-stats.vercel.app/api?username=LeonardoHOjeda&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="LeonardoHOjeda's GitHub stats" /></a>
-  <a href="http://www.github.com/LeonardoHOjeda"><img src="https://activity-graph.herokuapp.com/graph?username=LeonardoHOjeda&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  <a href="https://github.com/LeonardoHOjeda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHOjeda&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,bootstrap" />
 </p>
+
+## Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,mysql,postgresql" />
+</p>
+
+## Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+## Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoHOjeda&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHOjeda&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoHOjeda&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoHOjeda&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoHOjeda&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Project Name
+Short description of your project.
+
+### Tech Used:
+- Flutter
+- Laravel
+- MySQL
+
+🔗 Repository: [View Project](#)
+
+---
+
+## 🔹 Another Cool Project
+
+Short description here.
+
+🔗 Repository: [View Project](#)
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeonardoHOjeda&label=Profile%20views&color=0e75b6&style=flat" alt="LeonardoHOjeda" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">
+Thanks for visiting my profile ❤️
+</h3>
